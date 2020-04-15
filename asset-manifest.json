@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/MyBackRepository/static/css/main.b80ee5cb.chunk.css",
+    "main.js": "/MyBackRepository/static/js/main.8a69e6b3.chunk.js",
+    "main.js.map": "/MyBackRepository/static/js/main.8a69e6b3.chunk.js.map",
+    "runtime-main.js": "/MyBackRepository/static/js/runtime-main.45540ce1.js",
+    "runtime-main.js.map": "/MyBackRepository/static/js/runtime-main.45540ce1.js.map",
+    "static/js/2.a4d547b2.chunk.js": "/MyBackRepository/static/js/2.a4d547b2.chunk.js",
+    "static/js/2.a4d547b2.chunk.js.map": "/MyBackRepository/static/js/2.a4d547b2.chunk.js.map",
+    "static/css/3.b157cdfc.chunk.css": "/MyBackRepository/static/css/3.b157cdfc.chunk.css",
+    "static/js/3.c5367163.chunk.js": "/MyBackRepository/static/js/3.c5367163.chunk.js",
+    "static/js/3.c5367163.chunk.js.map": "/MyBackRepository/static/js/3.c5367163.chunk.js.map",
+    "static/css/4.178eee80.chunk.css": "/MyBackRepository/static/css/4.178eee80.chunk.css",
+    "static/js/4.a3ddcde6.chunk.js": "/MyBackRepository/static/js/4.a3ddcde6.chunk.js",
+    "static/js/4.a3ddcde6.chunk.js.map": "/MyBackRepository/static/js/4.a3ddcde6.chunk.js.map",
+    "index.html": "/MyBackRepository/index.html",
+    "precache-manifest.65a59dbc9b2933ee294c00440e5154ed.js": "/MyBackRepository/precache-manifest.65a59dbc9b2933ee294c00440e5154ed.js",
+    "service-worker.js": "/MyBackRepository/service-worker.js",
+    "static/css/3.b157cdfc.chunk.css.map": "/MyBackRepository/static/css/3.b157cdfc.chunk.css.map",
+    "static/css/4.178eee80.chunk.css.map": "/MyBackRepository/static/css/4.178eee80.chunk.css.map",
+    "static/css/main.b80ee5cb.chunk.css.map": "/MyBackRepository/static/css/main.b80ee5cb.chunk.css.map",
+    "static/js/2.a4d547b2.chunk.js.LICENSE": "/MyBackRepository/static/js/2.a4d547b2.chunk.js.LICENSE",
+    "static/media/Header_Preloader.gif": "/MyBackRepository/static/media/Header_Preloader.b8adbec9.gif",
+    "static/media/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif": "/MyBackRepository/static/media/f5baef4b6b6677020ab8d091ef78a3bc_w200.254ff478.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45540ce1.js",
+    "static/js/2.a4d547b2.chunk.js",
+    "static/css/main.b80ee5cb.chunk.css",
+    "static/js/main.8a69e6b3.chunk.js"
+  ]
+}
